@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1, h2 {
+    color: lightgreen;
+    font-family: Arial;
+}
+video {
+    width: 40%;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: lightgreen;
+}
+audio {
+    width: 40%;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: lightgreen;
+}
+iframe {
+    width: 40%;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: lightgreen;
+}
